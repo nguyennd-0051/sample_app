@@ -1,0 +1,35 @@
+vi:
+  static_pages:
+    home:
+      home: "Trang chủ"
+      app_name: "Ứng dụng mẫu"
+      welcome: "Chào mừng!"
+      description1: "Đây là trang chủ ứng dụng mẫu của"
+      rails_tut: "Ruby On Rails Tutorial"
+    help:
+      help: "Trợ giúp"
+      get_help: "Nhận sự trợ giúp về Hướng dẫn Ruby on Rails tại "
+      to_get_help: "Để nhận được trợ giúp về ứng dụng mẫu này, xem "
+      rails_help: "Rails Tutorial Help Section"
+      rails_book: "Ruby on Rails Tutorial Book"
+    contact:
+      contact: "Liên Hệ"
+      contact_des: "Liên hệ Hướng dẫn Ruby on Rails tại "
+      contact_page: "Trang Liên Hệ"    
+    about:
+      about: "Giới thiệu"
+      part_of: "- 1 phần của "
+      is_a: "là 1 "
+      book: "cuốn sách "
+      screencast: "chuỗi bài giảng"
+      and: "và "
+      to_teach: "để dạy phát triển web với"
+      this_is: "Đây là ứng dụng mẫu cho bài hướng dẫn"
+      ror_tut: "The Ruby On Rails Tutorial"
+      learnenough: "Learn Enough  Tutorial Family"
+  
+  layouts:
+    application:
+      en: "Tiếng Anh"
+      vi: "Tiếng Việt"
+      ror: "Ứng dụng mẫu Ruby on Rails"
