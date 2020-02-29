@@ -4,7 +4,7 @@ git_source(:github){|repo| "https://github.com/#{repo}.git"}
 gem "bootsnap", "1.4.5", require: false
 gem "config"
 gem "jbuilder", "2.9.1"
-gem "puma", "3.12.2"
+gem "puma", "3.12.3"
 gem "rails", "6.0.2.1"
 gem "rails-i18n"
 gem "sass-rails", "5.1.0"

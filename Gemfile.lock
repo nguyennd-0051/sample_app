@@ -151,7 +151,7 @@ GEM
       ast (~> 2.4.0)
     pg (1.1.4)
     public_suffix (4.0.3)
-    puma (3.12.2)
+    puma (3.12.3)
     rack (2.2.1)
     rack-proxy (0.6.5)
       rack
@@ -271,7 +271,7 @@ DEPENDENCIES
   jbuilder (= 2.9.1)
   listen (= 3.1.5)
   pg (= 1.1.4)
-  puma (= 3.12.2)
+  puma (= 3.12.3)
   rails (= 6.0.2.1)
   rails-i18n
   rubocop (~> 0.74.0)
